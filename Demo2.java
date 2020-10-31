@@ -24,7 +24,7 @@ public class Demo2 {
         int a = 50;
         System.out.println(a);
 
-
-
+        String x = "幹你娘";
+        System.out.println(x);
     }
 }
