@@ -21,7 +21,8 @@ public class Demo2 {
         String Strval = Integer.toString(intval);
         System.out.println(Strval);*/
 
-
+        int a = 50;
+        System.out.println(a);
 
 
 
